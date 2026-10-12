@@ -1,4 +1,4 @@
-# SJNA – Scheme Java Notation Artifact
+# ANIS – Artifact Notation Java Scheme
 ## Vollständige Dokumentation v1.1.2
 
 ---
@@ -23,7 +23,7 @@
 
 ## 1. Überblick
 
-**SJNA** (Scheme Java Notation Artifact) ist ein leichtgewichtiges Java-Library zum Parsen, Manipulieren, Validieren und Serialisieren eines eigenen Konfigurationsformats namens **SJNA-Format**. Es kann als Alternative zu JSON, YAML oder TOML für Java-Projekte eingesetzt werden.
+**ANIS** (Scheme Java Notation Artifact) ist ein leichtgewichtiges Java-Library zum Parsen, Manipulieren, Validieren und Serialisieren eines eigenen Konfigurationsformats namens **SJNA-Format**. Es kann als Alternative zu JSON, YAML oder TOML für Java-Projekte eingesetzt werden.
 
 ### Kernfähigkeiten
 
